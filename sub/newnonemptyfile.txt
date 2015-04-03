@@ -1,2 +1,0 @@
-This is a nonempty file.
-This is another line.
